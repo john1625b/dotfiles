@@ -1,3 +1,3 @@
 # aliases
-alias home='chd ~'
+alias home='cd ~'
 
