@@ -10,6 +10,9 @@ brew install homebrew/completions/docker-compose-completion
 # caskk programs
 brew tap caskroom/cask
 brew cask install spotify
+brew cask install iterm2
+brew cask install chrome
+brew cask install firefox
 
 # terminal programs
 brew install zsh
