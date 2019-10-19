@@ -13,8 +13,11 @@ brew cask install spotify
 brew cask install iterm2
 brew cask install chrome
 brew cask install firefox
+brew cask install adobe-reader
+
 
 # terminal programs
 brew install zsh
 brew install wget
+brew  install r
 

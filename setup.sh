@@ -1,6 +1,6 @@
 # Runs master setup
 
 # Symlink rc files
-ln -sv ~/repos/dotfiles/.bashrc ~
-ln -sv ~/repos/dotfiles/.vimrc ~
-ln -sv ~/repos/dotfiles/.zshrc ~
+ln -svnf ~/repos/dotfiles/.bashrc ~
+ln -svnf ~/repos/dotfiles/.vimrc ~
+ln -svnf ~/repos/dotfiles/.zshrc ~
