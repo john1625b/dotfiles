@@ -14,6 +14,7 @@ brew cask install iterm2
 brew cask install chrome
 brew cask install firefox
 brew cask install adobe-reader
+brew cask install rectangle
 
 
 # terminal programs
@@ -21,3 +22,5 @@ brew install zsh
 brew install wget
 brew  install r
 
+# non brew programs
+sudo easy_install --user pip
