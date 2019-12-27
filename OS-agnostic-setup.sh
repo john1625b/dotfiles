@@ -8,6 +8,6 @@ chsh -s $(which zsh)
 wget -P /Library/Fonts https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20L%20DZ%20Bold%20for%20Powerline.ttf
 
 
-
 # General software
 pip3 install numpy
+sudo easy_install --user pip
