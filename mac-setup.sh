@@ -15,7 +15,7 @@ brew cask install chrome
 brew cask install firefox
 brew cask install adobe-reader
 brew cask install rectangle
-brew cask install rectangle
+brew cask install hyperswitch
 
 
 # terminal programs
