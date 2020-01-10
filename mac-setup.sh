@@ -22,6 +22,7 @@ brew cask install hyperswitch
 brew install zsh
 brew install wget
 brew  install r
+brew install npm
 
 # non brew programs
 sudo easy_install --user pip
