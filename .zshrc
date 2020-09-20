@@ -104,4 +104,6 @@ bindkey -v
 bindkey -M viins 'jk' vi-cmd-mode
 bindkey -M viins 'kj' vi-cmd-mode
 bindkey "^P" up-line-or-search
+bindkey "^N" down-line-or-search
 
+unsetopt share_history

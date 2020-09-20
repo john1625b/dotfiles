@@ -23,6 +23,7 @@ brew install zsh
 brew install wget
 brew  install r
 brew install npm
+brew install coreutils
 
 # non brew programs
 sudo easy_install --user pip

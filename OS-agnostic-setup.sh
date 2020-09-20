@@ -11,3 +11,4 @@ wget -P /Library/Fonts https://github.com/powerline/fonts/blob/master/Meslo%20Do
 # General software
 pip3 install numpy
 sudo easy_install --user pip
+pip install jupyterlab
