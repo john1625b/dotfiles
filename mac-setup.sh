@@ -22,6 +22,7 @@ brew install wget
 brew  install r
 brew install npm
 brew install coreutils
+brew install jq
 
 # non brew programs
 sudo easy_install --user pip
