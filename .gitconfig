@@ -16,6 +16,7 @@
 	gco='git checkout'
 	gd='git diff'
 	gdc='git diff --cached'
-	gpom='git push origin master'
+	gpom='git push'
 	gr='git remote'
-	gs='git status'
+	gst='git status'
+
