@@ -13,8 +13,9 @@ brew cask install iterm2
 brew cask install chrome
 brew cask install firefox
 brew cask install rectangle
-brew cask install hyperswitch
-
+#brew cask install hyperswitch
+brew install --cask sublime-text
+brew install --cask flux
 
 # terminal programs
 brew install zsh
