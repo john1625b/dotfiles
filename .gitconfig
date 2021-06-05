@@ -1,0 +1,23 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = John Fernandes
+#	email = john1625b@gmail.com
+	email = john1625b@gmail.com
+	name = John
+
+# Aliases
+[alias]
+	ga='git add'
+	gb='git branch'
+	gc='git commit'
+	gca='git commit -a'
+	gcam='git commit -a -m'
+	gce='git commit -e'
+	gcm='git commit -m'
+	gco='git checkout'
+	gd='git diff'
+	gdc='git diff --cached'
+	gpom='git push origin master'
+	gr='git remote'
+	gs='git status'
