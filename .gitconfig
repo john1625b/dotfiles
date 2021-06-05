@@ -1,10 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 # Please adapt and uncomment the following lines:
-#	name = John Fernandes
-#	email = john1625b@gmail.com
 	email = john1625b@gmail.com
-	name = John
+	name = John Fernandes
 
 # Aliases
 [alias]
