@@ -12,3 +12,11 @@ wget -P /Library/Fonts https://github.com/powerline/fonts/blob/master/Meslo%20Do
 pip3 install numpy
 sudo easy_install --user pip
 pip install jupyterlab
+
+# Node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash &&
+nvm install stable &&
+npm i -g npm npm-check-updates mocha fixpack ts-node tsconfig-paths typescript firebase-tools &&
+npm completion >> ~/.bashrc;
+npm completion >> ~/.zshrc;
+
