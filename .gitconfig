@@ -1,8 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 # Please adapt and uncomment the following lines:
-	email = john1625b@gmail.com
-	name = John Fernandes
+	email = john1625b@users.noreply.github.com
+	name = john1625b
 
 # Aliases
 [alias]
@@ -20,3 +20,8 @@
 	gr='git remote'
 	gst='git status'
 
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
