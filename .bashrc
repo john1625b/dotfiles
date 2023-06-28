@@ -83,3 +83,9 @@ elif type compctl &>/dev/null; then
   compctl -K _npm_completion npm
 fi
 ###-end-npm-completion-###
+
+# kill port shortcut start
+killport() {
+    kill -9 $(lsof -ti:$1)
+}
+# kill port shortcut end
