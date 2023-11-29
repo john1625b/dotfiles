@@ -1,5 +1,6 @@
 # aliases
 alias home='cd ~'
+alias nr='npm run'
 
 
 # list after cding
