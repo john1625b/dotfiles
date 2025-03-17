@@ -26,6 +26,7 @@ brew  install r;
 brew install npm;
 brew install coreutils;
 brew install jq;
+brew install gh;
 
 # non brew programs
 # sudo easy_install --user pip;
