@@ -16,8 +16,7 @@ brew install --cask firefox;
 brew install --cask rectangle;
 # brew cask install hyperswitch
 brew install --cask sublime-text;
-brew install --cask flux;
-brew install --cask amethyst
+brew install --cask doll
 
 # terminal programs
 brew install zsh;
