@@ -17,6 +17,7 @@ brew install --cask rectangle;
 # brew cask install hyperswitch
 brew install --cask sublime-text;
 brew install --cask doll
+brew install --cask notion
 
 # terminal programs
 brew install zsh;
