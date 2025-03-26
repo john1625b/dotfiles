@@ -14,10 +14,12 @@ brew install --cask iterm2;
 brew install --cask chrome;
 brew install --cask firefox;
 brew install --cask rectangle;
-# brew cask install hyperswitch
 brew install --cask sublime-text;
 brew install --cask doll
 brew install --cask notion
+brew install --cask microsoft-edge
+# brew cask install hyperswitch
+
 
 # terminal programs
 brew install zsh;
